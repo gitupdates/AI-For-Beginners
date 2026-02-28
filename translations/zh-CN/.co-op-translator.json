@@ -6,8 +6,8 @@
     "language_code": "zh-CN"
   },
   "README.md": {
-    "original_hash": "75fe3383afc51eaa84b82ace619ffea7",
-    "translation_date": "2026-02-06T07:31:48+00:00",
+    "original_hash": "9eaca839b0b3f6d7f0a195fd33cebd30",
+    "translation_date": "2026-02-28T09:45:04+00:00",
     "source_file": "README.md",
     "language_code": "zh-CN"
   },
@@ -87,6 +87,12 @@
     "original_hash": "a334df77a82aaaf2a29c77065d3e481e",
     "translation_date": "2025-11-18T20:47:44+00:00",
     "source_file": "lessons/1-Intro/assignment.md",
+    "language_code": "zh-CN"
+  },
+  "lessons/2-Symbolic/MSConceptGraph.ipynb": {
+    "original_hash": "e5690bbc6e5119a96a8172ec7261db67",
+    "translation_date": "2026-02-28T09:41:52+00:00",
+    "source_file": "lessons/2-Symbolic/MSConceptGraph.ipynb",
     "language_code": "zh-CN"
   },
   "lessons/2-Symbolic/README.md": {
